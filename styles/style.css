@@ -1,7 +1,8 @@
 #output{
     border: black 2px solid;
     height: 100px;
-    width: 100%;
+    width: 70%;
+    margin: auto;
   }
   
   button{
@@ -21,4 +22,10 @@
     width: 500px;
     font-size: 15px;
     font-weight: bolder;
-}  
+}
+
+.rows{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
