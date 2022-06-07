@@ -1,0 +1,24 @@
+#output{
+    border: black 2px solid;
+    height: 100px;
+    width: 100%;
+  }
+  
+  button{
+    width: 75px;
+    height: 50px;
+    margin: 5px 5px 5px 5px;
+  }
+  
+  #delete{
+    width: 150px;
+    background-color: red;
+    color: black;
+    font-weight: bolder;
+  }
+
+#space{
+    width: 500px;
+    font-size: 15px;
+    font-weight: bolder;
+}  
